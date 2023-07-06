@@ -56,4 +56,8 @@ Try to put a blank line before
 
 and after a horizontal rule.
  
-See the section on [`code`](#code).
+See the section on [`code`](#code).  
+
+
+[hobbit-hole] [1]  
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
