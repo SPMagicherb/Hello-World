@@ -7,3 +7,4 @@ This is a brand-new start.
     1. Indented item
     2. Indented item
 4. Fourth item
+- 1968. A great year!
